@@ -1,0 +1,8 @@
+bin/node_exporter
+bin/prometheus
+data/grafana_data
+data/prometheus_data
+log/*.log
+log/grafana*
+opt/FlameGraph
+opt/grafana
